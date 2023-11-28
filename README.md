@@ -1,7 +1,7 @@
 <img src="assets/heading_img.svg" alt="Hi, I'm Muhaimin Abdillah : Self-Taught Back-End Developer"/>
 
 - 🔭 I’m currently working on [Coursify: REST API written in Go](https://github.com/muhaimin-a8/coursify)
-- 🌱 I’m currently learning Go, gRPC, GraphQL
+- 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about backend, software architecture, etc.
@@ -9,25 +9,22 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
   - I'm a fast learner.
-  - I've little knowledge about DevOps, Android Development, and also about Front-End Development, but i much love Back-End Development
 
 ## About me
 
 ## Connect with me
-- [Instagram](https://www.instagram.com/muhaimin_a8/)
-- [Linkedin](https://www.linkedin.com/in/muhaimin-a8/)
-- [Facebook](https://www.facebook.com/muhaimin.a8)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhaimin-a8/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muhaimin_a8/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/muhaimin.a8)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/muhaimin-a8/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/muhaimin_a8)
 
 ## Languages and Tools
-- Go
-- JavaScript
-- Kotlin
-- REST API
-- gRPC
-- Kubernetes
-- Docker
-- CI/CD
-- CircleCI
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Best Personal Projects
 - [Coursify](https://github.com/muhaimin-a8/coursify) : `REST API` written in `Go`
