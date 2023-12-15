@@ -26,6 +26,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+## Courses and Bootcamps Journey
+- [IDCAMP](https://idcamp.ioh.co.id/) 2023 x [Dicoding Indonesia](https://www.dicoding.com/) `on going` : [Android Developer Intermediate](https://www.dicoding.com/learningpaths/7)
+- [IDCAMP](https://idcamp.ioh.co.id/) 2022 x [Dicoding Indonesia](https://www.dicoding.com/) `Graduate` : [BackEnd Developer Expert](https://www.dicoding.com/learningpaths/41)
+
+## Experiences
+- Project-Based Virtual Intern : [Fullstack Developer](https://www.rakamin.com/virtual-internship-experience/fullstack-development-btpn-syariah) [BTPN Syariah](https://www.btpnsyariah.com/) x [Rakamin Academy](https://www.rakamin.com/) Batch September 2023
+
 ## Best Personal Projects
 - [Coursify](https://github.com/muhaimin-a8/coursify) : `REST API` written in `Go`
 - [Forum API](https://github.com/muhaimin-a8/dicoding-submission-forum-api) : `REST API` written in `JavaScript` with [Hapi Frameworks](https://hapi.dev) as final submission task for [BackEnd Developer Expert](https://www.dicoding.com/academies/276) course at [Dicoding Indonesia](https://dicoding.com/). [<i>See certificate</i>](https://www.dicoding.com/certificates/N9ZO4N096ZG5)
