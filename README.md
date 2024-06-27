@@ -1,18 +1,12 @@
-<img src="assets/heading_img.svg" alt="Hi, I'm Muhaimin Abdillah : Self-Taught Back-End Developer"/>
+# Muhaimin Abdilah
+BackEnd Developer
 
-- 🔭 I’m currently working on [Coursify: REST API written in Go](https://github.com/muhaimin-a8/coursify)
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about backend, software architecture, etc.
-- 📫 How to reach me: contact me on my social media
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 
-  - I'm a fast learner.
+## About Me
+Hi, I am a highly motivated and self-driven BackEnd Developer. I'am fast learner, technology enthusiasm. Passionate about crafting robust and
+efficient backend applications. Possesses a strong foundation in backend technologies gained through
+independent learning and a thirst for knowledge
 
-## About me
-
-## Connect with me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhaimin-a8/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muhaimin_a8/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/muhaimin.a8)
@@ -23,6 +17,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
